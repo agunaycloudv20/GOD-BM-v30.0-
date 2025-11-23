@@ -1,0 +1,11 @@
+streamlit
+google-generativeai
+feedparser
+pytz
+ccxt
+pandas
+numpy
+yfinance
+requests
+streamlit-components
+streamlit-autorefresh
