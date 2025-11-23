@@ -7,5 +7,4 @@ pandas
 numpy
 yfinance
 requests
-streamlit-components
 streamlit-autorefresh
